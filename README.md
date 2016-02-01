@@ -56,5 +56,6 @@ This is a Python Resque client written from scratch .
 
 ## TODO
 
-* Fork and submit an MR for goworker to use redis-cluster. T
+* Fork and submit an MR for goworker to use redis-cluster. This will solve SPOF and
+improve perf
 * Update clients
