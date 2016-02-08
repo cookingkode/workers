@@ -52,7 +52,16 @@ To build client,
 
 ### python
 
-This is a Python Resque client written from scratch . 
+This is a Python Resque client written from scratch .
+
+
+## Production Grade Clients
+
+### Golang
+[goresque](https://github.com/cookingkode/goresque) 
+
+### Python
+TODO
 
 ## TODO
 
